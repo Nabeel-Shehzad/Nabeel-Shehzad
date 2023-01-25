@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, We're Nabeel Shehzad and Jpseph S.<br>👀 We're interested in mobile development and machine learning.<br>🌱 We're currently Working as a mobile app developer.<br>💞️ We're looking to collaborate on Flutter, MERN stack, and machine learning.<br>📫 www.nabeelshehzad.com
+# 💫 About Us:
+👋 Hi, We're Nabeel Shehzad and Joseph S.<br>👀 We're interested in mobile development and machine learning.<br>🌱 We're currently Working as a mobile app developer.<br>💞️ We're looking to collaborate on Flutter, MERN stack, and machine learning.<br>📫 www.nabeelshehzad.com
 
 
 ## 🌐 Socials:
